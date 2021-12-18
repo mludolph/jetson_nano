@@ -2,7 +2,7 @@
 
 set -e
 
-version=3.19.2
+version=3.19.1
 
 folder=${HOME}/src
 mkdir -p $folder
